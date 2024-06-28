@@ -1,15 +1,13 @@
 #EXTM3U
-#EXTINF:1409,Kamen Rider Kuuga 01
-#EXTVLCOPT:network-caching=1000
-https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/01.mp4
-#EXTINF:1409,Kamen Rider Kuuga 02
-#EXTVLCOPT:network-caching=1000
-https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/02.mp4
-#EXTINF:1409,Kamen Rider Kuuga 03
-#EXTVLCOPT:network-caching=1000
-https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/03.mp4
-#EXTINF:1409,Kamen Rider Kuuga 04
-#EXTVLCOPT:network-caching=1000
-https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/04.mp4
 
-#EXT-X-ENDLIST
+#EXTINF:1440, Kamen Rider Kuuga 01
+https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/01.mp4
+
+#EXTINF:1440, Kamen Rider Kuuga 02
+https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/02.mp4
+
+#EXTINF:1440, Kamen Rider Kuuga 03
+https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/03.mp4
+
+#EXTINF:1440, Kamen Rider Kuuga 04
+https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/04.mp4
